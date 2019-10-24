@@ -1,0 +1,59 @@
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\bin\Debug\registrosaude.exe.config
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\bin\Debug\registrosaude.exe
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\bin\Debug\registrosaude.pdb
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\obj\Debug\registrosaude.csprojAssemblyReference.cache
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\obj\Debug\registrosaude.Form1.resources
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\obj\Debug\registrosaude.Form2.resources
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\obj\Debug\registrosaude.Properties.Resources.resources
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\obj\Debug\registrosaude.csproj.GenerateResource.cache
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\obj\Debug\registrosaude.csproj.CoreCompileInputs.cache
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\obj\Debug\registrosaude.exe
+C:\Users\ruanh\source\repos\registrosaude\registrosaude\obj\Debug\registrosaude.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\obj\Debug\registrosaude.csprojAssemblyReference.cache
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\obj\Debug\registrosaude.Form1.resources
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\obj\Debug\registrosaude.Form2.resources
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\obj\Debug\registrosaude.Properties.Resources.resources
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\obj\Debug\registrosaude.csproj.GenerateResource.cache
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\obj\Debug\registrosaude.exe
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\obj\Debug\registrosaude.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\bin\Debug\registrosaude.exe.config
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\bin\Debug\registrosaude.exe
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\bin\Debug\registrosaude.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\bin\Debug\MySql.Data.dll
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\bin\Debug\Google.Protobuf.dll
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\bin\Debug\Renci.SshNet.dll
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\bin\Debug\MySql.Data.xml
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaude\registrosaude\obj\Debug\registrosaude.csproj.CopyComplete
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\bin\Debug\registrosaude.exe.config
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\bin\Debug\registrosaude.exe
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\bin\Debug\registrosaude.pdb
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\bin\Debug\Google.Protobuf.dll
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\bin\Debug\Renci.SshNet.dll
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\bin\Debug\MySql.Data.xml
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\obj\Debug\registrosaude.csprojAssemblyReference.cache
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\obj\Debug\registrosaude.Form1.resources
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\obj\Debug\registrosaude.Form2.resources
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\obj\Debug\registrosaude.Properties.Resources.resources
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\obj\Debug\registrosaude.csproj.GenerateResource.cache
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\obj\Debug\registrosaude.csproj.CoreCompileInputs.cache
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\obj\Debug\registrosaude.csproj.CopyComplete
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\obj\Debug\registrosaude.exe
+C:\Users\ruanh\source\repos\registrosaudequase\registrosaude\obj\Debug\registrosaude.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\bin\Debug\registrosaude.exe.config
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\bin\Debug\registrosaude.exe
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\bin\Debug\registrosaude.pdb
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\bin\Debug\MySql.Data.dll
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\bin\Debug\Google.Protobuf.dll
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\bin\Debug\Renci.SshNet.dll
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\bin\Debug\MySql.Data.xml
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\obj\Debug\registrosaude.csprojAssemblyReference.cache
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\obj\Debug\registrosaude.Form1.resources
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\obj\Debug\registrosaude.Form2.resources
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\obj\Debug\registrosaude.Properties.Resources.resources
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\obj\Debug\registrosaude.csproj.GenerateResource.cache
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\obj\Debug\registrosaude.csproj.CopyComplete
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\obj\Debug\registrosaude.exe
+C:\Users\filip\OneDrive\Área de Trabalho\registrosaudequase\registrosaude\obj\Debug\registrosaude.pdb
